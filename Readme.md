@@ -1,15 +1,16 @@
-## Getting and Cleaning Data Course Project
+### Getting and Cleaning Data Course Project
 
 File repository for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course project
 
 
-## Overview
+### Overview
 
-This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent analysis. A full description of the data used in this project can be found at [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). 
+This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent analysis. A full description of the data used in this project can be found at [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+
 [The source data for this project can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 
-## Project Summary
+### Project Summary
 
 Below are the requirements of the project
 
@@ -22,6 +23,6 @@ Below are the requirements of the project
 7. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
 
-## Additional Information
+### Additional Information
 
-You can find additional information about the variables, data and transformations in the CodeBook.MD file.
+You can find additional information about the variables, data and transformations in the CodeBook.md file.
